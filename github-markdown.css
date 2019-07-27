@@ -511,14 +511,11 @@ body hr {
 }
 
 body {
-  margin: 8px;
-}
-
-body {
   box-sizing: border-box;
   min-width: 200px;
   max-width: 980px;
-  margin: 8px auto;
+  margin-left: auto;
+  margin-right: auto;
   padding: 45px
 }
 
